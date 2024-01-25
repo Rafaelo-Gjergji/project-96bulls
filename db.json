@@ -1,0 +1,39 @@
+{
+  "96Bulls": [
+    {
+      "id": 1,
+      "name": "Ron Harper",
+      "jersey_number": 9,
+      "position": "Guard",
+      "height": "6'6"
+    },
+    {
+      "id": 2,
+      "name": "Michael Jordan",
+      "jersey_number": 23,
+      "position": "Guard",
+      "height": "6'6"
+    },
+    {
+      "id": 3,
+      "name": "Scottie Pippen",
+      "jersey_number": 33,
+      "position": "Forward",
+      "height": "6'8"
+    },
+    {
+      "id": 4,
+      "name": "Dennis Rodman",
+      "jersey_number": 91,
+      "position": "Forward",
+      "height": "6'7"
+    },
+    {
+      "id": 5,
+      "name": "Luc Longley",
+      "jersey_number": 13,
+      "position": "Center",
+      "height": "7'2"
+    }
+  ]
+}
